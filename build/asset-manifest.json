@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/excel-cleaner/static/css/main.34173701.chunk.css",
+    "main.js": "/excel-cleaner/static/js/main.544dfccc.chunk.js",
+    "main.js.map": "/excel-cleaner/static/js/main.544dfccc.chunk.js.map",
+    "runtime-main.js": "/excel-cleaner/static/js/runtime-main.8484f6b9.js",
+    "runtime-main.js.map": "/excel-cleaner/static/js/runtime-main.8484f6b9.js.map",
+    "static/js/2.dd6b4b4c.chunk.js": "/excel-cleaner/static/js/2.dd6b4b4c.chunk.js",
+    "static/js/2.dd6b4b4c.chunk.js.map": "/excel-cleaner/static/js/2.dd6b4b4c.chunk.js.map",
+    "static/js/3.6a1d6653.chunk.js": "/excel-cleaner/static/js/3.6a1d6653.chunk.js",
+    "static/js/3.6a1d6653.chunk.js.map": "/excel-cleaner/static/js/3.6a1d6653.chunk.js.map",
+    "index.html": "/excel-cleaner/index.html",
+    "static/css/main.34173701.chunk.css.map": "/excel-cleaner/static/css/main.34173701.chunk.css.map",
+    "static/js/2.dd6b4b4c.chunk.js.LICENSE.txt": "/excel-cleaner/static/js/2.dd6b4b4c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/excel-cleaner/static/media/background.4855492f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8484f6b9.js",
+    "static/js/2.dd6b4b4c.chunk.js",
+    "static/css/main.34173701.chunk.css",
+    "static/js/main.544dfccc.chunk.js"
+  ]
+}
