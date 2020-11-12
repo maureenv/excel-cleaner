@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+html {
+  height: 100%;
+}
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  background-image: url("background.jpg");
+   /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+body::after {
+  content: '';
+  background: black;
+  opacity: 0.7;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.file-uploader div {
+  width: 500px;
+  font-size: 20px;
+  height: 200px !important;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+}
+
+.file-uploader path:first-child {
+  fill: #4fd271 !important;
+}
+.file-uploader path:last-child {
+  fill: black !important;
+}
+.file-uploader div div:first-child {
+  background: none !important;
+}
+.file-uploader div div:first-child span{
+  background-color: rgba(255, 255, 255, 0) !important;
+  font-size: 25px !important;
+}
+
+.download-buttons {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.download-buttons a {
+  cursor: pointer;
+  font-family: 'Roboto', sans-serif;
+  background: #4fd271;
+  display: inline-block;
+  padding: 20px;
+  width: 40%;
+  text-align: center;
+  border-radius: 5px;
+}
